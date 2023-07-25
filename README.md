@@ -31,7 +31,7 @@ To use the microservice, you can send HTTP requests to the service's endpoint. H
 
 `curl http://<service-ip>:<service-port>/tasks`
 
-
+  
 This should return a JSON response with a greeting message.
 
 ## Contributing
